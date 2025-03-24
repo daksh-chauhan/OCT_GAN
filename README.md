@@ -2,7 +2,7 @@
 
 ## Overview
 This project involves training a deep learning model for image generation using PyTorch and exporting it to ONNX format for inference. The focus is on both training and utilizing custom-trained models.
-
+(Dample results in main.ipynb)
 ## Dependencies
 Ensure you have the following Python libraries installed:
 
